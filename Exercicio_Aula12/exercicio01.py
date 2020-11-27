@@ -16,7 +16,7 @@
 
 def salario(ganha_hora, num_horas):
 
-    salario_bruto = (ganha_hora * num_horas)* 31
+    salario_bruto = (ganha_hora * num_horas)
     print(f'SALARIO BRUTO: R$ {salario_bruto}')
 
     imposto_renda = salario_bruto * 0.11
@@ -41,3 +41,7 @@ if __name__ == "__main__":
     
     salario(ganha_hora, num_horas)
     
+# Revisão Karla
+# variáveis auto explicativas
+# o salário bruto está sendo multiplicado por 31, suponho que tenha sido engano da programadora.
+# fora isso está certinho

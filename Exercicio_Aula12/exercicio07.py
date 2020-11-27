@@ -44,4 +44,10 @@ if __name__ == "__main__":
     vogais(frase)
     espaços(frase, contador)
 
-    
+# Revisão Karla
+# Não precisa de uma lista para salvar a quantidade de espaços,
+# usar somente a variavel contadora é o suficiente.
+# Cada vez que um espaço é encontrado, cont +=1.
+# 
+# Vale o mesmo para as vogais, como estão sendo contadas todas juntas.
+# Código fácil de entender.

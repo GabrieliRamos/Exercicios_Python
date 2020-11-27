@@ -25,4 +25,6 @@ if __name__ == "__main__":
 
     gerador_numero()
     
-    
+# Revisão Karla
+# colocar um print informando que o algoritmo simula jogadas de um dado.
+# tá ótimo
