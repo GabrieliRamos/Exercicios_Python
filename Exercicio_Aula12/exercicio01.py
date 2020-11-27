@@ -16,7 +16,7 @@
 
 def salario(ganha_hora, num_horas):
 
-    salario_bruto = (ganha_hora * num_horas)
+    salario_bruto = (ganha_hora * num_horas)* 31
     print(f'SALARIO BRUTO: R$ {salario_bruto}')
 
     imposto_renda = salario_bruto * 0.11
