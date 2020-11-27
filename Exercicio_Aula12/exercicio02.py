@@ -25,7 +25,7 @@ valor_lata = 80
 litro_lata = 18
 
 def lata(litro_lata, litro_nec, valor_lata):
-
+ 
     quant_lata = round(litro_nec/litro_lata)
 
     print('\nLATAS DE TINTA: {}'.format(quant_lata))
@@ -58,5 +58,5 @@ if __name__ == "__main__":
     lata_galao(litro_lata, litro_nec, valor_lata, litro_galao, valor_galao)
 
 
-
-
+# Revisão
+# não é necessário usar o round ali pois a divisão com \\ já retorna um valor inteiro

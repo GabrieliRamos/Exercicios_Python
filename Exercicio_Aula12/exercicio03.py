@@ -36,3 +36,8 @@ if __name__ == "__main__":
         else:
             print('Obrigado. Volte sempre!')
             break
+
+
+# Revisão Karla
+# gostei do menuzinho.
+# bom código
